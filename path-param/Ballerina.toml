@@ -1,0 +1,4 @@
+[package]
+org = "malinthaa"
+name = "pathparam"
+version = "0.1.0"
